@@ -219,8 +219,9 @@ Contributions, issues, and feature requests are welcome!
 
 **Suraj Adhikary**
 
-- Instagram: [seekho_officialshow](https://www.instagram.com/seekho_officialshow)  
+- Instagram: [suraj_editz]([https://www.instagram.com/seekho_officialshow](https://www.instagram.com/suraj_editz.143?utm_source=qr&igsh=M3M5Y3JzMGhkaXQ2))  
 - Telegram: [Join my channel](https://t.me/+nwzR8HB63wc1ZTNl)  
+- Youtube: [CodeNexa]([https://t.me/+nwzR8HB63wc1ZTNl](https://www.youtube.com/@CodeNexa-143))  
 
 If you liked this project, consider giving the repo a ⭐ on GitHub!
 
