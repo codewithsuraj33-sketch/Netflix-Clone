@@ -15,7 +15,7 @@
 
 ## 🌐 Live Demo
 
-> 🔗 **Live URL:** `Add your deployed link here (e.g. Netlify / Vercel / GitHub Pages)`  
+> 🔗 **Live URL:** `[Add your deployed link here (e.g. Netlify / Vercel / GitHub Pages)](https://codewithsuraj33-sketch.github.io/Netflix-Clone/)`  
 > 📸 **Preview:**
 
 <p align="center">
@@ -100,16 +100,16 @@ No JavaScript framework, no CSS library – **just handcrafted HTML & CSS.**
 
 > Replace the image paths below with your actual image paths inside the `assets` folder.
 
-### 🖥️ Desktop View
+### 🖥️ Trending Movies View
 
 <p align="center">
-  <img src="assets/desktop-view.png" alt="Desktop View" width="800">
+  <img src="assets/images/Netflix-loginpage-preview.png" alt="Desktop View" width="800">
 </p>
 
-### 📱 Mobile View
+### 📱 Login Page View
 
 <p align="center">
-  <img src="assets/mobile-view.png" alt="Mobile View" width="400">
+  <img src="assets/images/Netflix-loginpage-preview.png" alt="Mobile View" width="400">
 </p>
 
 ---
@@ -219,9 +219,9 @@ Contributions, issues, and feature requests are welcome!
 
 **Suraj Adhikary**
 
-- Instagram: [suraj_editz]([https://www.instagram.com/seekho_officialshow](https://www.instagram.com/suraj_editz.143?utm_source=qr&igsh=M3M5Y3JzMGhkaXQ2))  
+- Instagram: [suraj_editz](https://www.instagram.com/seekho_officialshow](https://www.instagram.com/suraj_editz.143?utm_source=qr&igsh=M3M5Y3JzMGhkaXQ2))  
 - Telegram: [Join my channel](https://t.me/+nwzR8HB63wc1ZTNl)  
-- Youtube: [CodeNexa]([https://t.me/+nwzR8HB63wc1ZTNl](https://www.youtube.com/@CodeNexa-143))  
+- Youtube: [CodeNexa](https://t.me/+nwzR8HB63wc1ZTNl](https://www.youtube.com/@CodeNexa-143))  
 
 If you liked this project, consider giving the repo a ⭐ on GitHub!
 
