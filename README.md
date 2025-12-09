@@ -109,7 +109,7 @@ No JavaScript framework, no CSS library – **just handcrafted HTML & CSS.**
 ### 📱 Trending Movies Section View
 
 <p align="center">
-  <img src="assets/images/Netflix-trendingpage-preview.png" alt="Mobile View" width="400">
+  <img src="assets/images/Netflix-trendingpage-preview.png" alt="Mobile View" width="800">
 </p>
 
 ---
@@ -219,9 +219,9 @@ Contributions, issues, and feature requests are welcome!
 
 **Suraj Adhikary**
 
-- Instagram: [suraj_editz](https://www.instagram.com/seekho_officialshow](https://www.instagram.com/suraj_editz.143?utm_source=qr&igsh=M3M5Y3JzMGhkaXQ2))  
-- Telegram: [Join my channel](https://t.me/+nwzR8HB63wc1ZTNl)  
-- Youtube: [CodeNexa](https://t.me/+nwzR8HB63wc1ZTNl](https://www.youtube.com/@CodeNexa-143))  
+- Instagram: [suraj_editz](https://www.instagram.com/suraj_editz.143?utm_source=qr&igsh=M3M5Y3JzMGhkaXQ2)
+- Telegram: [Join my channel]((https://t.me/codenexa143))  
+- Youtube: [CodeNexa](https://www.youtube.com/@CodeNexa-143)
 
 If you liked this project, consider giving the repo a ⭐ on GitHub!
 
