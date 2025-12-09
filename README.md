@@ -220,7 +220,7 @@ Contributions, issues, and feature requests are welcome!
 **Suraj Adhikary**
 
 - Instagram: [suraj_editz](https://www.instagram.com/suraj_editz.143?utm_source=qr&igsh=M3M5Y3JzMGhkaXQ2)
-- Telegram: [Join my channel]((https://t.me/codenexa143))  
+- Telegram: [Join my channel](https://t.me/codenexa143)
 - Youtube: [CodeNexa](https://www.youtube.com/@CodeNexa-143)
 
 If you liked this project, consider giving the repo a ⭐ on GitHub!
