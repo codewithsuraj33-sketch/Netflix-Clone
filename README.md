@@ -1,4 +1,4 @@
-<h1 align="center">🎬 Netflix Clone (HTML & CSS)</h1>
+<h1 align="center">🎬 Netflix UI Clone (HTML & CSS)</h1>
 
 <p align="center">
   A clean, modern clone of the Netflix landing page built using only <b>HTML</b> and <b>CSS</b>.
@@ -20,7 +20,7 @@
 
 <p align="center">
   <!-- Replace this path with your real preview image -->
-  <img src="assets/preview.png" alt="Netflix Clone Preview" width="800">
+  <img src="assets/Netflix-homepage-preview.jpeg" alt="Netflix Clone Preview" width="800">
 </p>
 
 ---
