@@ -15,7 +15,7 @@
 
 ## 🌐 Live Demo
 
-> 🔗 **Live URL:** `[Add your deployed link here (e.g. Netlify / Vercel / GitHub Pages)](https://codewithsuraj33-sketch.github.io/Netflix-Clone/)`  
+> 🔗 **Live URL:**[Page Link](https://codewithsuraj33-sketch.github.io/Netflix-Clone/)
 > 📸 **Preview:**
 
 <p align="center">
@@ -100,16 +100,16 @@ No JavaScript framework, no CSS library – **just handcrafted HTML & CSS.**
 
 > Replace the image paths below with your actual image paths inside the `assets` folder.
 
-### 🖥️ Trending Movies View
+### 🖥️ Login Page View
 
 <p align="center">
   <img src="assets/images/Netflix-loginpage-preview.png" alt="Desktop View" width="800">
 </p>
 
-### 📱 Login Page View
+### 📱 Trending Movies Section View
 
 <p align="center">
-  <img src="assets/images/Netflix-loginpage-preview.png" alt="Mobile View" width="400">
+  <img src="assets/images/Netflix-trendingpage-preview.png" alt="Mobile View" width="400">
 </p>
 
 ---
