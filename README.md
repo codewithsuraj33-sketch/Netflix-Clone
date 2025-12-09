@@ -20,7 +20,7 @@
 
 <p align="center">
   <!-- Replace this path with your real preview image -->
-  <img src="assets/Netflix-homepage-preview.jpeg" alt="Netflix Clone Preview" width="800">
+  <img src="./assets/images/Netflix-homepage-preview.png" alt="Netflix Clone Preview" width="800">
 </p>
 
 ---
